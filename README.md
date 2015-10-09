@@ -23,7 +23,7 @@ group responsible for Open Source Evangelism, Education and License Compliance
 
 * Technical lead for QOSP's operations team
 * Responsible for designing and implementing QOSP's automation and release infrastructure
-* Wrote testing harness for QOSP's flagship product
+* Wrote test harness for QOSP's flagship product
 * Worked with QA engineers to implement automated testing
 * Wrote distributed source code mirror system for QOSP's flagship product
 * Wrote several tools to automate day-to-day operational tasks
@@ -35,6 +35,7 @@ group responsible for Open Source Evangelism, Education and License Compliance
 * Primarily responsible for QOSP's Chef Server infrastructure
 * Provided mentoring and guidance to members of both development and operations teams
 * Represented Qualcomm's interests at Chef community events
+* Wrote docker-based package builder used by several of QOSP's product lines
 
 
 System Administrator, Newedge
