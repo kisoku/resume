@@ -1,27 +1,22 @@
-Mathieu Sauve-Frankel
-=====================
-msf@kisoku.net
+# Mathieu Sauve-Frankel
+*msf@kisoku.net*
+*+81 080-8512-6486*
 
-Summary
--------
+## Summary
 
 I am an automation engineer with over 20 years of experience. Self-motivated
 and autonomous, I bring a broad mix of systems, networking and security experience
 to bear in my day to day activities. A wearer of many hats, I am constantly looking
 to challenge and improve myself.
 
-Skills
-------
+## Skills
 
-TCP/IP, Unix/Linux, Kubernetes, CI/CD, git, IPsec, Firewalls, Oauth 2.0, Observability, AWS, GCP
+TCP/IP, Unix/Linux, Kubernetes, CI/CD, git, IPsec, Firewalls, Oauth 2.0, Observability, AWS, GCP, Bare Metal
 
+## Work History
 
-Work History
-------------
-
-Woven by Toyota, Staff Infrastructure Engineer
-----------------------------------------------
-2021 - Present
+### Woven by Toyota, Staff Infrastructure Engineer
+*2021 - Present*
 
 Lead Engineer for the Agora Platform Infrastructure team
 
@@ -44,9 +39,8 @@ Lead Engineer for the Agora Platform Infrastructure team
 * Worked closely with security architects on platform threat model
 * Negotiated requirements with Woven City service teams
 
-Fastly Japan KK, Principal Site Reliability Engineer
-----------------------------------------------------
-2015 - 2021
+### Fastly Japan KK, Principal Site Reliability Engineer
+*2015 - 2021*
 Worked as the technical lead for Fastly’s Automation engineering efforts.
 
 * Technical lead on infrastructure automation for Fastly’s edge product
@@ -62,9 +56,8 @@ GCP + AWS
 * Worked closely with service teams responsible for Fastly's Control
   Plane.
 
-Qualcomm Japan, Staff Engineer, Office of the Chief Scientist
-------------------------------------------------------------------
-2010 - Present
+### Qualcomm Japan, Staff Engineer, Office of the Chief Scientist
+*2010 - Present*
 
 Works as part of the Qualcomm Open Source Portal team, an engineering
 group responsible for Open Source Evangelism, Education and License Compliance
@@ -86,9 +79,8 @@ group responsible for Open Source Evangelism, Education and License Compliance
 * Wrote docker-based package builder used by several of QOSP's product lines
 
 
-System Administrator, Newedge
------------------------------------------
-2009 - 2010
+### System Administrator, Newedge
+*2009 - 2010*
 
 Responsible for both Unix and Network administration duties at the largerst
 commodities brokerage in Japan.
@@ -101,9 +93,8 @@ commodities brokerage in Japan.
 * Implemented Chef for Linux server management
 
 
-Senior System Administrator, SBI Japannext
-------------------------------------------------
-2007 - 2009
+### Senior System Administrator, SBI Japannext
+*2007 - 2009*
 
 Worked as Senior System Administrator at a private stock exchange in Tokyo.
 My largets project was the design, implementation and launch of a new data center
@@ -119,9 +110,8 @@ for the company's second production exchange.
 * Wrote my own Puppet node classifier in Perl (yes, Perl)
 
 
-Independent Consultant
---------------------------------
-2005 - 2007
+### Independent Consultant
+*2005 - 2007*
 
 Implementor of network security and systems management, with a focus on OpenBSD
 and networking equipment.
@@ -134,14 +124,12 @@ and networking equipment.
 * Day to day system administration and monitoring duties for selected customers
 
 
-2003-2005 Network Technician, Penson Financial Services Canada Inc.
--------------------------------------------------------------------
+### Network Technician, Penson Financial Services Canada Inc.
+*2003-2005*
 
-Responsible for networking infrastructure and Unix server infrastructure in a
-medium sized financial company. Worked in a multi-site environment, Job
-responsibilities included frequent travel between Montreal and Toronto to
-maintain networked systems located at both in house and third party sites, such
-as the Toronto Stock Exchange.
+* Responsible for networking infrastructure and Unix server
+  infrastructure in a medium sized financial company. 
+* Worked in a multi-site environment, Job responsibilities included frequent travel between Montreal and Toronto to maintain networked systems located at both in house and third party sites, such as the Toronto Stock Exchange.
 
 * Worked in an environment with many WAN connections, both to internal
   organizations, and external third parties. Acted as of point of contact with
@@ -156,8 +144,8 @@ as the Toronto Stock Exchange.
   developers troubleshoot issues with their software at the network layer
 
 
-2002-2003 Network Administrator, SecureOps Inc
-----------------------------------------------
+### Network Administrator, SecureOps Inc
+*2002-2003*
 
 Solely responsible for the administration of SecureOps Network Security
 infrastructure (NIDS, VPN, Firewall) and the administration of their general
@@ -169,8 +157,8 @@ Firewall/VPN administration.
 * Helped organize and execute the move of all of SecureOps' server
   infrastructure
 
-2000-2002 Network Administrator, Philosophie Bleue Inc.
--------------------------------------------------------
+### Network Administrator, Philosophie Bleue Inc.
+*2000-2002*
 
 Primarily responsible for designing and implementing Philosophie Bleue's server
 infrastructure, including postmaster for 80 + domains and web server admin for
@@ -181,11 +169,10 @@ infrastructure, including postmaster for 80 + domains and web server admin for
 * Researched and implemented network security measures (Firewalls/VPN Gateways &
   NIDS)
 
-Professional Associations
--------------------------
+## Professional Associations
 
-2005-2010 Co-Founder Recon Security Conference
-----------------------------------------------
+### Co-Founder Recon Security Conference
+*2005 - present*
 
 One of the founders and core organizers of a profitable computer security
 conference held annually in Montreal. Worked on all aspects of the conference,
@@ -193,23 +180,21 @@ including speaker selection, media contact and promotion, provisioning,
 arranging the venue, conference network infrastructure, and volunteer staff
 co-ordination.
 
-2004-2010 OpenBSD Developer
----------------------------
+### OpenBSD Developer
+*2004-2010*
 
 I worked extensively with the porting team, acting as package maintainer for over
 a hundred different software packages. I have also worked heavily with OpenBSD's
 IPsec tool chain and am actively developing improvements to OpenBSD's IPsec
 support.
 
-Education
----------
+## Education
 
 * A.E.P Network Administration - META2 Formation 2001
 * High School Diploma - MIND High School, Montreal 1992
 * Bilingual certificate (English/French) - MIND High School, Montreal 1992
 
-Languages
----------
+## Languages
 
 * English (Fluent)
 * French (Fluent)
