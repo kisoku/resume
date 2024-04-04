@@ -5,14 +5,62 @@ msf@kisoku.net
 Summary
 -------
 
-I am an automation engineer with over 12 years of experience. Self-motivated
+I am an automation engineer with over 20 years of experience. Self-motivated
 and autonomous, I bring a broad mix of systems, networking and security experience
 to bear in my day to day activities. A wearer of many hats, I am constantly looking
 to challenge and improve myself.
 
+Skills
+------
+
+TCP/IP, Unix/Linux, Kubernetes, CI/CD, git, IPsec, Firewalls, Oauth 2.0, Observability, AWS, GCP
+
 
 Work History
 ------------
+
+Woven by Toyota, Staff Infrastructure Engineer
+----------------------------------------------
+2021 - Present
+
+Lead Engineer for the Agora Platform Infrastructure team
+
+* Technical lead for cross-disciplinary team of 14 engineers in a larger
+  team of 70+ engineers
+* Acted as chief recruiter, selecting resumes, grading take home challenges, conducting interviews and member of the recommending committee
+* Architected Multi-Region, multi-cluster kubernetes cluster using AWS EKS in IPv6 Mode
+* Worked with Build and Test engineers supporting a Bazel based monorepo
+  build system for 200+ application engineers
+* Evaluated and implemented CI/CD solutions for kubernetes, including
+  Flux and Prow
+* Worked with CI/CD team to build custom GitHub event handler software
+  for custom CI/CD solution
+* Implemented automated Terraform CI/CD using Terragrunt and GitHub
+  Actions
+* Implemented advanced GitHub actions security using Oauth 2.0 and
+  GitHub Applications
+* Implemented Istio service mesh in a multi-cluster configuration using
+  Solo.io Gloo Mesh
+* Worked closely with security architects on platform threat model
+* Negotiated requirements with Woven City service teams
+
+Fastly Japan KK, Principal Site Reliability Engineer
+----------------------------------------------------
+2015 - 2021
+Worked as the technical lead for Fastly’s Automation engineering efforts.
+
+* Technical lead on infrastructure automation for Fastly’s edge product
+* Acted as architect and primary implementor for a multi year effort to rewrite Fastly’s production Chef code base from the ground up.
+* Trained and mentored dozens of engineers.
+* Designed and implemented developer and CI tooling for automated Chef development workflows
+* Designed and implemented cloud infrastructure for Chef and CI using Terraform +
+GCP + AWS
+* Designed a replacement for chef-vault using Hashicorp Vault as backend2
+* Worked as part of the SRE team responsible for Fastly's Data Plane. 
+* On-call for several years, responded to both production and security
+  incidents
+* Worked closely with service teams responsible for Fastly's Control
+  Plane.
 
 Qualcomm Japan, Staff Engineer, Office of the Chief Scientist
 ------------------------------------------------------------------
