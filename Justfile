@@ -1,3 +1,5 @@
+clean:
+  rm resume*.*
 
 odt:
   pandoc -t odt -o resume.odt README.md
